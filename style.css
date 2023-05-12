@@ -12,7 +12,7 @@ body{
     display : flex;
     justify-content: center;
     align-items: center;
-    background: var(--dark);
+    background: linear-gradient(470deg, var(--dark) , var(--light));
 }
 .main{
     width: 90%;
